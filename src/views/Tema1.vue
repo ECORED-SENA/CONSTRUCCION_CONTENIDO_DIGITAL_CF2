@@ -26,43 +26,55 @@
       .col-lg-10
         PasosA.color-primario.mb-5(tipo="n")
           .row
-            .col-md-6.mb-4.mb-md-0
-              h3 Definir lo que se quiere
-              p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
-            .col-md-6
+            .col-md-2
               figure
-                img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')
-                figcaption Leyenda de la imagen
+                img.h100(src='@/assets/curso/t1-i2.svg', alt='Texto que describa la imagen')
+            .col-md-10.mb-4.mb-md-0
+              h3 Definir lo que se quiere
+              p Definir si la imagen se va a publicar en Facebook como portada de una página, en un tweet, o como miniatura de un video en YouTube, Instagram o en algún dispositivo móvil. Es importante tener esto en cuenta, porque las imágenes de portada son rectangulares, mientras que las miniaturas de videos o las imágenes en Instagram, son cuadradas.
+            
+
 
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-10
+              h3 Generar ideas
+              p Se escriben las ideas que se tienen sobre el contenido de la imagen, lo que se consideraque  debe aparecer, si es necesaria alguna foto o si se necesitan recursos ya creados para ser buscados por Internet y anexarlos a la imagen. Todo esto, pensando siempre en la idea que se quiere potenciar.
+
+            .col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')
-                figcaption Leyenda de la Imagen
-            .col-md-6
-              h3 Nullam vulputate mauris eros, ut.
-              p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+                img.h100(src='@/assets/curso/t1-i2-1.svg', alt='Texto que describa la imagen')
+
               
 
           .row
-            .col-md-6.mb-4.mb-md-0
-              h3 Duis laoreet est non ligula.
-              p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
-          
-            .col-md-6
+            .col-md-2
               figure
-                img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')
-                figcaption Leyenda de la imagen
+                img.h100(src='@/assets/curso/t1-i3.svg', alt='Texto que describa la imagen')
+
+            .col-md-10.mb-4.mb-md-0
+              h3 Crear bocetos
+              p Crear dibujos preliminares realizados rápidamente y sin tanta complejidad. Se recomienda tener en cuenta colores, textos y demás elementos que harán parte de la imagen a crear. Puede trabajarse en papel o utilizar programas como CANVA, el cual se vio en el apartado de planeación.
+          
+
 
           .row
-            .col-md-6.mb-4.mb-md-0
-              h3 Duis laoreet est non ligula.
+            .col-md-10.mb-4.mb-md-0
+              h3 Validación
               p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
           
-            .col-md-6
+            .col-md-2
               figure
-                img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')
-                figcaption Leyenda de la imagen
+                img.h100(src='@/assets/curso/t1-i4.svg', alt='Texto que describa la imagen')
+
+          .row
+            .col-md-2
+              figure
+                img.h100(src='@/assets/curso/t1-i5.svg', alt='Texto que describa la imagen')
+
+            .col-md-10.mb-4.mb-md-0
+              h3 Boceto final
+              p Aquí va la representación más cercana al producto que se va a construir para empezar el proceso.
+          
 
 
 
@@ -70,32 +82,18 @@
 
 
 
-
-
-
-
-
-
-    //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
-    //- se encuentra en src/components/Muestras.vue
-    //- Una vez el componente "Muestras" no se necesite 
-    //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
-    //- esto evitará que se compile en la carpeta final de distribución
-    Muestras
   
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
   data: () => ({
     // variables de vue
   }),
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass" scoped>
+.h100{height: 100px}
+</style>
