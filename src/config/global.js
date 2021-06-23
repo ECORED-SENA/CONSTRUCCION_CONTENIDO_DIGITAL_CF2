@@ -45,7 +45,7 @@ export default {
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
-        numero: '3',
+        numero: '4',
         titulo:
           'Planeación, diseño y herramientas para la creación de un audio',
         desarrolloContenidos: true,
@@ -53,7 +53,7 @@ export default {
       {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
-        numero: '3',
+        numero: '5',
         titulo:
           'Planeación, diseño y herramientas para la creación de un video',
         desarrolloContenidos: true,
