@@ -60,19 +60,73 @@
     p.mb-5  Algunos recursos valiosos que podemos encontrar en la web, <b>los cuales son libres de derechos y podemos usar sin inconvenientes,</b> son:
 
     h4.mb-5 Bancos de imágenes
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-lg-4
         figure.mb-4
           img.h100(src='@/assets/curso/t2-i6.svg', alt='Texto que describa la imagen')
-        .h4 Figma
-        p.mb-3
-          Es un editor de gráficos, vectorial, y una herramienta de generación de prototipos, basada principalmente en la web, con características off-line adicionales, habilitadas por aplicaciones de escritorio en macOS y Windows.
+        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p <b>Enlace web.</b> www.pexels.com
 
       .col-lg-4
         figure.mb-4
           img.h100(src='@/assets/curso/t2-i7.svg', alt='Texto que describa la imagen')
-        .h4 Canva
-        p.mb-3 Es Fundado en 2012, es un software y un sitio web de herramientas de diseño gráfico simplificado. Utiliza un formato de arrastrar y soltar, y proporciona acceso a más de 60 millones de fotografías y 5 millones de vectores, gráficos y fuentes.
+        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p <b>Enlace web.</b> www.unsplash.com
+    h4.mb-5 Vectores
+    .row.justify-content-center.mb-5
+      .col-lg-4
+        figure.mb-4
+          img.h100(src='@/assets/curso/t2-i8.svg', alt='Texto que describa la imagen')
+        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p <b>Enlace web.</b> www.freepik.es
+
+      .col-lg-4
+        figure.mb-4
+          img.h100(src='@/assets/curso/t2-i9.svg', alt='Texto que describa la imagen')
+        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p <b>Enlace web.</b> www.flaticon.es
+    h4.mb-5 Tipografías
+    .row.justify-content-center.mb-5
+      .col-lg-4
+        figure.mb-4
+          img.h100(src='@/assets/curso/t2-i10.svg', alt='Texto que describa la imagen')
+        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p <b>Enlace web.</b> www.fonts.google.com/
+
+      .col-lg-4
+        figure.mb-4
+          img.h100(src='@/assets/curso/t2-i11.svg', alt='Texto que describa la imagen')
+        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p <b>Enlace web.</b> www.befonts.com
+
+    p.mb-5  Te invitamos a ver el siguiente video, donde con la herramienta de diseño Figma y una imagen de pexels.com, <b>te mostraremos cómo crear una imagen para una red social.</b>
+    
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    .row.justify-content-center
+      .col-lg-8
+        .cajon.color-primario.mb-5.p-4
+          p.mb-3  <b>¡Anímate!</b> Ingresa a Figma y crea una imagen para una de tus redes sociales o para tu negocio.
 
 
 
