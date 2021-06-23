@@ -125,7 +125,7 @@
     
     .row.justify-content-center
       .col-lg-8
-        .cajon.color-primario.mb-5.p-4
+        .cajon.color-secundario.mb-5.p-4
           p.mb-3  <b>¡Anímate!</b> Ingresa a Figma y crea una imagen para una de tus redes sociales o para tu negocio.
 
 

@@ -38,7 +38,7 @@
     p.mb-5  Es importante aclarar que se pueden buscar plantillas gratuitas, identificando en cuáles se debe dar reconocimiento al diseñador de la plantilla y usarlas de manera efectiva en los ajustes.
     .row.justify-content-center.mb-5
       .col-lg-10
-        .cajon.color-primario.p-4
+        .cajon.color-secundario.p-4
           p <b>Recuerda:</b> para crear una presentación efectiva, se requiere ser cuidadoso al momento <b>de elegir los elementos visuales, el tipo de fuente y el punto focal.</b> Si se tienen en cuenta estos 3 elementos en lo que se quiere comunicar, se estará más cerca de lograr lo que se desea.
     p.mb-5  El siguiente listado contiene algunas de las plataformas que permiten <b>crear presentaciones interactivas online, de manera gratuita o a través de un registro:</b>
 
