@@ -6,7 +6,7 @@ div
   .titulo-principal
     .titulo-principal__numero
       span 1
-    h1 Título principal, 30pt
+    h1 Título principaTe invitamos a ver el siguiente video, el cual presenta algunas reglas básicas que se deben tener en cuenta en el momento de realizar las piezas gráficas.l, 30pt
 
   p.mb-5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus id, vulputate turpis. Maecenas cursus ante a diam porttitor mollis. Etiam vehicula dictum diam, eu pulvinar odio ultrices non. Vivamus viverra fermentum tortor, sit amet interdum nisl fermentum sed.
 
