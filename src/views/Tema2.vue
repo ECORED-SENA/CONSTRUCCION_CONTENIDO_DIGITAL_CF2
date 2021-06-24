@@ -36,21 +36,26 @@
     .row
       .col-lg-7
         p.mb-4  En algunas de las herramientas mencionadas o en la de su preferencia, se puede editar una imagen en el celular o en la tablet; pero antes de hacerlo, es importante tener en cuenta lo que veremos a continuación, <b>para poder crear una imagen con contenido útil o, si es el caso, atraer a los clientes:</b>
-        ol.lista-ul
+        ol.lista-ol--cuadro
           li 
-            i.fas.fa-angle-right
+            .lista-ol--cuadro__vineta
+              span 1
             | Definir lo que se quiere comunicar.
           li 
-            i.fas.fa-angle-right
+            .lista-ol--cuadro__vineta
+              span 2
             | Examinar la herramienta y sus posibilidades antes de empezar.
           li 
-            i.fas.fa-angle-right
+            .lista-ol--cuadro__vineta
+              span 3
             | Elegir las fotografías que se van a utilizar.
           li 
-            i.fas.fa-angle-right
+            .lista-ol--cuadro__vineta
+              span 4
             | Diseño de la imagen.
           li 
-            i.fas.fa-angle-right
+            .lista-ol--cuadro__vineta
+              span 5
             | Construir la imagen.
           
       .col-lg-5
@@ -64,7 +69,7 @@
       .col-lg-4
         figure.mb-4
           img.h100(src='@/assets/curso/t2-i6.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.pexels.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -73,7 +78,7 @@
       .col-lg-4
         figure.mb-4
           img.h100(src='@/assets/curso/t2-i7.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://unsplash.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -83,7 +88,7 @@
       .col-lg-4
         figure.mb-4
           img.h100(src='@/assets/curso/t2-i8.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.freepik.es/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -92,7 +97,7 @@
       .col-lg-4
         figure.mb-4
           img.h100(src='@/assets/curso/t2-i9.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.flaticon.es/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -102,16 +107,16 @@
       .col-lg-4
         figure.mb-4
           img.h100(src='@/assets/curso/t2-i10.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://fonts.google.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p <b>Enlace web.</b> www.fonts.google.com/
+            p <b>Enlace web.</b> https://fonts.google.com/
 
       .col-lg-4
         figure.mb-4
           img.h100(src='@/assets/curso/t2-i11.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://befonts.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto

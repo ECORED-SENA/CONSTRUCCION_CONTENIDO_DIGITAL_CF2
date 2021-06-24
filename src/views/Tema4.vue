@@ -24,7 +24,7 @@
       .col-lg-5
         figure.mb-4
           img(src='@/assets/curso/t4-i2.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.buzzsprout.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -33,7 +33,7 @@
       .col-lg-5
         figure.mb-4
           img(src='@/assets/curso/t4-i3.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://transistor.fm/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -42,7 +42,7 @@
       .col-lg-5
         figure.mb-4
           img(src='@/assets/curso/t4-i4.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://castos.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -51,7 +51,7 @@
       .col-lg-5
         figure.mb-4
           img(src='@/assets/curso/t4-i5.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.podbean.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto

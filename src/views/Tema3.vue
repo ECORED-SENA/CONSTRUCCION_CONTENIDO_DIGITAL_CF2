@@ -46,7 +46,7 @@
       .col-lg-3
         figure.mb-4
           img(src='@/assets/curso/t3-i2.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.canva.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -55,7 +55,7 @@
       .col-lg-3
         figure.mb-4
           img(src='@/assets/curso/t3-i3.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://prezi.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -63,7 +63,7 @@
       .col-lg-3
         figure.mb-4
           img(src='@/assets/curso/t3-i4.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.emaze.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -72,7 +72,7 @@
       .col-lg-3
         figure.mb-4
           img(src='@/assets/curso/t3-i5.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.powtoon.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -81,7 +81,7 @@
       .col-lg-3
         figure.mb-4
           img(src='@/assets/curso/t3-i6.svg', alt='Texto que describa la imagen')
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://slidebean.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -94,25 +94,25 @@
       .col-lg-9
         ul.lista-ul
           li 
-            i.fas.fa-angle-right
+            i.fa.fa-check
             | Definir lo que se quiere comunicar.
           li 
-            i.fas.fa-angle-right
+            i.fa.fa-check
             | Examinar la herramienta y sus posibilidades antes de empezar.
           li 
-            i.fas.fa-angle-right
+            i.fa.fa-check
             | Definir los datos relevantes que se van a exponer en cada página o diapositiva.
           li 
-            i.fas.fa-angle-right
+            i.fa.fa-check
             | Crear una secuencia de la información para que contenga un hilo conductor.
           li 
-            i.fas.fa-angle-right
+            i.fa.fa-check
             | Realizar el diseño de la presentación.      
           li 
-            i.fas.fa-angle-right
+            i.fa.fa-check
             | Elegir imágenes y fuentes en armonía con los colores.
           li 
-            i.fas.fa-angle-right
+            i.fa.fa-check
             | Construir la presentación, revisarla y ensayarla.    
     
 

@@ -13,7 +13,7 @@
         p.mb-4  Es importante tener en cuenta cómo va a ser la comunicación corporal, o no verbal, dentro de la grabación del video y al ser este un factor a planear, se puede incluir en el storyboard.
         p.mb-4  El rostro, el movimiento del cuerpo en conjunto con los componentes de la voz, se articulan para que el video transmita emociones; por eso la importancia de poder incluir todo esto en el storyboard, el cual se conoce como el entregable del diseño del video.
         p.mb-4  Grabar y editar videos se ha convertido en una tarea aparentemente fácil, desde el uso de los teléfonos inteligentes; pero cuando se pretende producir un video con aspecto profesional, es importante atender algunas recomendaciones, las cuales se pueden analizar en el video “Tutorial para grabar videos desde la casa con el celular (Smartphone)” haciendo clic en el enlace.
-        a.anexo.mb-4.mb-lg-0(href="#!" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=41Z5EoP0fOQ" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
