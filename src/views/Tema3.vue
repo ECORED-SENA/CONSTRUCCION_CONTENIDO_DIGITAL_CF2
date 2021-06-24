@@ -16,19 +16,19 @@
           .col-lg-10.offset-lg-1
             ul.lista-ul
               li 
-                i.fas.fa-angle-right
+                i.fa.fa-check
                 | Tener en mente el tiempo con el que se cuenta para la presentación y decidir cuántas diapositivas se van a utilizar.
               li 
-                i.fas.fa-angle-right
+                i.fa.fa-check
                 | Realizar un esquema de tiempo y de temas, especificando cuánto tiempo se toma para cada diapositiva.
               li 
-                i.fas.fa-angle-right
+                i.fa.fa-check
                 | Como ya se definieron previamente la secuencia y las imágenes a utilizar, es importante ir organizando la forma como se quiere que las imágenes sean observadas y el lugar donde irán los textos y las modificaciones a los ángulos de las imágenes y otros detalles.
               li 
-                i.fas.fa-angle-right
+                i.fa.fa-check
                 | Realizar un guion base con palabras clave y visualizar cada diapositiva para articular el discurso con el recurso.
               li 
-                i.fas.fa-angle-right
+                i.fa.fa-check
                 | Pasar a la fase de construcción final, ensayo y ajustes.
 
       .col-lg-4

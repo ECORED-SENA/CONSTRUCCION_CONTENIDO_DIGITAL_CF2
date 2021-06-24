@@ -39,16 +39,16 @@
             p.mb-4  El guion es el punto de partida en la creación de un video, es donde se engancha al público y se expone lo que se logrará al finalizar de verlo. Se debe tener en cuenta:
             ul.lista-ul
               li 
-                i.fas.fa-angle-right
+                i.fa.fa-check
                 | Cautivar al público desde el inicio del video.
               li 
-                i.fas.fa-angle-right
+                i.fa.fa-check
                 | Tener claro el tema que se desarrollará.
               li 
-                i.fas.fa-angle-right
+                i.fa.fa-check
                 | Planear el contenido; es decir, cómo se va a entregar a los usuarios. Un ejemplo sería hacerlo paso a paso y dividir el tema en pequeños pasos que se entregarán en orden, para lograr una mayor efectividad al comunicar el mensaje.
               li 
-                i.fas.fa-angle-right
+                i.fa.fa-check
                 | Saber cuáles imágenes, efectos, audios y demás recursos, apoyarán la producción del video.
         
       
