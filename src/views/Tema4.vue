@@ -70,10 +70,10 @@
                 span Descargar
                 i.fas.fa-file-download
 
-    p.mb-5  Estos contenidos de audio son llamados podcast, y se alojan en una plataforma web, donde pueden ser escuchados, descargados y, en casos particulares, editados. Algunas de estas plataformas son:
+    p.mb-5  Recomendamos ver el siguiente video, donde se presenta una introducción al manejo de la herramienta Audacity.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/66cRVRhTWf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-secundario.p-4 

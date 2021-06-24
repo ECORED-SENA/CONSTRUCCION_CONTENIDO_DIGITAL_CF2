@@ -43,7 +43,7 @@
     p.mb-5  El siguiente listado contiene algunas de las plataformas que permiten <b>crear presentaciones interactivas online, de manera gratuita o a través de un registro:</b>
 
     .row.justify-content-center.mb-5
-      .col-lg-3
+      .col-lg-4
         figure.mb-4
           img(src='@/assets/curso/t3-i2.svg', alt='Texto que describa la imagen')
         a.anexo.mb-4.mb-lg-0(href="https://www.canva.com/" target="_blank")
@@ -52,7 +52,7 @@
           .anexo__texto
             p <b>Enlace web.</b> www.canva.com
 
-      .col-lg-3
+      .col-lg-4
         figure.mb-4
           img(src='@/assets/curso/t3-i3.svg', alt='Texto que describa la imagen')
         a.anexo.mb-4.mb-lg-0(href="https://prezi.com/" target="_blank")
@@ -60,7 +60,7 @@
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p <b>Enlace web.</b> https://prezi.com
-      .col-lg-3
+      .col-lg-4
         figure.mb-4
           img(src='@/assets/curso/t3-i4.svg', alt='Texto que describa la imagen')
         a.anexo.mb-4.mb-lg-0(href="https://www.emaze.com/" target="_blank")
@@ -69,7 +69,7 @@
           .anexo__texto
             p <b>Enlace web.</b> www.emaze.com
     .row.justify-content-center.mb-5
-      .col-lg-3
+      .col-lg-4
         figure.mb-4
           img(src='@/assets/curso/t3-i5.svg', alt='Texto que describa la imagen')
         a.anexo.mb-4.mb-lg-0(href="https://www.powtoon.com/" target="_blank")
@@ -78,7 +78,7 @@
           .anexo__texto
             p <b>Enlace web.</b> www.powtoon.com
 
-      .col-lg-3
+      .col-lg-4
         figure.mb-4
           img(src='@/assets/curso/t3-i6.svg', alt='Texto que describa la imagen')
         a.anexo.mb-4.mb-lg-0(href="https://slidebean.com/" target="_blank")
