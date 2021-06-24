@@ -61,12 +61,6 @@ export default {
     ],
     subMenu: [
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -96,134 +90,147 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        '33mm. (2019). Diez consejos sobre cómo editar vídeos de forma profesional. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://35mm.es/como-editar-videos-profesionalmente-10-consejos-utiles/',
+    },
+    {
+      referencia: 'Caño Valls, C. (2010). Tutoriales Audacity',
+      link: 'http://openaccess.uoc.edu/webapps/o2/handle/10609/9047',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Luciano Baêta. (2019). Conoce los principales conceptos y consejos para editar audio. ',
+      link: 'https://blog.hotmart.com/es/editar-audio/',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Mejía, M. (2021). ¡Dale vida a tu producto digital con Figma!',
+      link: 'https://www.crehana.com/co/blog/diseno-grafico/que-es-figma/',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Amplificar',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Este efecto incrementa o reduce el volumen del audio que se ha seleccionado.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Auto Duck',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Reduce el volumen de una o más pistas cuando el volumen de la pista “control” alcanza un nivel particular. Típicamente usado para hacer que una pista de música suene más despacio cuando se escucha voz en una pista de comentarios.',
     },
     {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+      termino: 'Autoplay',
+      significado: 'Es un video que se reproduce automáticamente.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Back Up',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Copia de seguridad de archivos, que se crea para evitar que se pierda la información gráfica en caso que se pierdan los originales, o se necesite hacer nuevos cambios en el diseño.',
     },
     {
-      termino: 'Moda',
+      termino: 'Bit Rate',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Se refiere a la cantidad de información por segundo que nuestro ordenador o móvil lee al reproducir un archivo de video. Por tanto, cuanto mayor sea el bitrate mayor será la calidad del material.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Canva',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Lienzo donde se diseñan las piezas gráficas en los programas de diseño.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Embed',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Es incrustar un video que ha sido subido a una plataforma, en una web o en un blog.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Filtro',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Capas de color que permiten cambiar la intensidad de nuestras fotografías.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Formato de imagen',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Datos digitales en un formato específico que permiten ser visualizados en una computadora o dispositivo compatible; los más usados son: PNG, JPEG, TIFF y GIF.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Lecturabilidad',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Cualidad de un diseño que permite leer con facilidad el texto que hay en él.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Legibilidad',
+      significado: 'Cualidad que tiene un texto para leerse sin dificultad.',
+    },
+    {
+      termino: 'M1V',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Extensión de un archivo MPEG que solo contiene datos de video. MPA, MPEG, MPG.',
+    },
+    {
+      termino: 'M4A',
+      significado:
+        'Es un contenedor para distribuir ficheros de audio codificados en formato AAC o ALAC protegidos mediante DRM.',
+    },
+    {
+      termino: 'Mapa de Bits (Bitmaps)',
+      significado:
+        'Hace referencia a una imagen que está constituida por pixeles que tienen información de color. Los formatos de imagen para mapa de bits son: PNG, JPEG y GIF. El programa más usado para editar estas imágenes es Photoshop.',
+    },
+    {
+      termino: 'Multimedia',
+      significado:
+        'El término se refiere a cualquier plataforma que utiliza diferentes medios de expresión para comunicar y dar a conocer información, desde texto e imágenes hasta gifs, videos y audios',
+    },
+    {
+      termino: 'Pixel',
+      significado:
+        'Elemento más pequeño de la imagen de un monitor. El término proviene de dos palabras inglesas: picture y element.',
+    },
+    {
+      termino: 'Podcast',
+      significado:
+        'Publicación digital en audio o video que se puede descargar o escuchar vía streaming. Suelen alojarse en una página web o blog, pero también en plataformas especializadas en audio como iTunes, Spotify o SoundCloud.',
+    },
+    {
+      termino: 'Resolución',
+      significado:
+        'Cantidad de píxeles que pueden visualizarse en el monitor horizontal y verticalmente. Cuanto más alta es la resolución, más detalles pueden visualizarse. ',
+    },
+    {
+      termino: 'RGB',
+      significado:
+        'Rojo, verde y azul. Colores primarios de la mezcla aditiva de colores. RGB designa el método que se emplea en informática para codificar la información de la imagen en pixeles, cada uno con una determinada combinación de estos tres colores primarios.',
+    },
+    {
+      termino: 'Playlist',
+      significado:
+        'Es una lista de videos online, organizados por temas o categorías. Muy populares en YouTube.',
+    },
+    {
+      termino: 'Video 360',
+      significado:
+        'Son videos grabados con cámaras especiales, capaces de captar la acción en un ángulo de 360 grados.',
+    },
+    {
+      termino: 'Voz en off',
+      significado:
+        'Narración en la que el locutor no está en la escena. Se suele añadir al editar.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        'VIRTUOSSO.COM. (2018). Ejercicios para locutores, ejercicios de locución y vibración (Video). YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=JE3Yn4-6znE',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Martínez, A. (2019). Cuatro tips para grabar tu voz… si no eres profesional de la locución. Subitus. ',
+      tipo: 'Artículo',
+      link: 'https://www.subitus.com/tips-basicos-para-grabar-voz/ ',
     },
   ],
   creditos: {
