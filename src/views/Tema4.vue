@@ -66,7 +66,7 @@
               h3.mb-1 Tips para la grabación de audio
               p.text-small Cuando te enfrentas a la grabación de un audio, surgen inquietudes sobre cómo es el proceso para realizarlo. A continuación encontrarás unas recomendaciones que te ayudarán para que el producto final quede con buena calidad.  
             .col-sm-auto
-              a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Infografia_tips-grabacion-de-audios.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
