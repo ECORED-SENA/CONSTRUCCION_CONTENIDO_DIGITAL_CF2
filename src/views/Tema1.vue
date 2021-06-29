@@ -38,7 +38,7 @@
           .row
             .col-md-10
               h4 Generar ideas
-              p Se escriben las ideas que se tienen sobre el contenido de la imagen, lo que se consideraque  debe aparecer, si es necesaria alguna foto o si se necesitan recursos ya creados para ser buscados por Internet y anexarlos a la imagen. Todo esto, pensando siempre en la idea que se quiere potenciar.
+              p Se escriben las ideas que se tienen sobre el contenido de la imagen, lo que se considera que  debe aparecer, si es necesaria alguna foto o si se necesitan recursos ya creados para ser buscados por Internet y anexarlos a la imagen. Todo esto, pensando siempre en la idea que se quiere potenciar.
 
             .col-md-2.mb-4.mb-md-0
               figure
@@ -60,7 +60,8 @@
           .row
             .col-md-10.mb-4.mb-md-0
               h4 Validación
-              p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+              p En equipo, se validan las opciones que se llevan hasta el momento y, en el caso que aplique, también con el cliente o potenciales usuarios, para luego hacer los ajustes pertinentes.
+
           
             .col-md-2
               figure

@@ -9,7 +9,7 @@
     .row.mb-5
       .col-lg-8
         p.mb-4  Los contenidos de audio han sido empleados en diversos canales como radio, redes sociales e inclusive en las calles, a través del conocido <b>“perifoneo”</b>, donde se pueden encontrar contenidos como podcast o también comerciales. En algunos casos se acompañan de imágenes fijas o simplemente se emite el audio.
-        p.mb-4  Para diseñar un contenido de audio, se deben tener en cuenta los aspectos que se desarrollaron anteriormente en la planeación del contenido
+        p.mb-4  Para diseñar un contenido de audio, se deben tener en cuenta los aspectos que se desarrollaron anteriormente en la planeación del contenido.
         p.mb-4  Teniendo todo esto en mente, <b>se debe determinar el tiempo de duración, dependiendo del público objetivo y de los elementos previamente abordados.</b>
         p.mb-4  El paso siguiente, es el de elaborar el guion escrito, tomándose el tiempo de revisarlo y leerlo con la entonación que se requiere, para determinar si son necesarios algunos cambios. Para lograrlo, es recomendable hacer una grabación de prueba y ajustarla, de ser necesario; también <b>es importante anotar sobre el guion, con símbolos, dónde se debe acelerar la voz, subir o bajar el volumen, o hacer más notoriedad en las palabras sobre las que se va a hacer un énfasis.</b>
       .col-lg-4
@@ -74,10 +74,6 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/66cRVRhTWf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        .cajon.color-secundario.p-4 
-          p <b>Recuerda:</b>  para crear una presentación efectiva, se requiere ser cuidadoso al momento <b>de elegir los elementos visuales, el tipo de fuente y el punto focal</b> Si se tienen en cuenta estos 3 elementos en lo que se quiere comunicar, se estará más cerca de lograr lo que se desea.
 
 </template>
 

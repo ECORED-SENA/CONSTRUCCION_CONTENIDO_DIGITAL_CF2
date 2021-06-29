@@ -14,13 +14,13 @@
           img.h100(src='@/assets/curso/t2-i1.svg', alt='Texto que describa la imagen')
         .h4 Figma
         p.mb-3
-          Es un editor de gráficos, vectorial, y una herramienta de generación de prototipos, basada principalmente en la web, con características off-line adicionales, habilitadas por aplicaciones de escritorio en macOS y Windows.
+        | Es un editor de gráficos, vectorial, y una herramienta de generación de prototipos, basada principalmente en la web, con características off-line adicionales, habilitadas por aplicaciones de escritorio en macOS y Windows.
 
       .col-lg-4
         figure.mb-4
           img.h100(src='@/assets/curso/t2-i2.svg', alt='Texto que describa la imagen')
         .h4 Canva
-        p.mb-3 Es Fundado en 2012, es un software y un sitio web de herramientas de diseño gráfico simplificado. Utiliza un formato de arrastrar y soltar, y proporciona acceso a más de 60 millones de fotografías y 5 millones de vectores, gráficos y fuentes.
+        p.mb-3 Fundado en 2012, es un software y un sitio web de herramientas de diseño gráfico simplificado. Utiliza un formato de arrastrar y soltar, y proporciona acceso a más de 60 millones de fotografías y 5 millones de vectores, gráficos y fuentes.
     .row.justify-content-center.mb-5
       .col-lg-4
         figure.mb-4
