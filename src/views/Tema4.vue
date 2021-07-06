@@ -70,7 +70,7 @@
                 span Descargar
                 i.fas.fa-file-download
 
-    p.mb-5  Recomendamos ver el siguiente video, donde se presenta una introducción al manejo de la herramienta Audacity.
+    p.mb-5  Teniendo claro cómo se planea la creación de un audio, su diseño y las diferentes herramientas que se pueden utilizar, te invitamos a ver el siguiente video, donde se presenta una introducción al manejo de la herramienta Audacity.
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/66cRVRhTWf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
