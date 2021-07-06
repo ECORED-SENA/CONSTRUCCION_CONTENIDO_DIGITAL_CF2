@@ -12,31 +12,33 @@
         p.mb-4  Uno de los aspectos más importantes es que contenga gráficos, porque ellos representan metáforas y son fundamentales para el cerebro humano.
         p.mb-4  El texto debe ser limitado de manera esencial y contrastar con el color del fondo. La letra negra en un fondo oscuro no se va a poder ver; lo mismo pasa con un fondo pastel con letra blanca.
 
-    .row.mb-5.justify-content-center
-      .col-lg-12
-        p.mb-4.text-center  Teniendo en cuenta todo lo anterior, se deben considerar <b>los siguientes puntos en el diseño de las diapositivas para las presentaciones:</b>
     
-    .row.mb-5.justify-content-center
-      .col-lg-4
-        ImagenInfografica.color-secundario.mb-5
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/t3-i1.svg', alt='Elementos a considerar cuando se diseñen diapositivas')
+    .light-blue.py-5.mb-5
+      .row.mb-5.justify-content-center
+        .col-lg-12
+          p.mb-4.text-center  Teniendo en cuenta todo lo anterior, se deben considerar <b>los siguientes puntos en el diseño de las diapositivas para las presentaciones:</b>
 
-          .tarjeta.color-acento-botones.p-3(x="20%" y="20%")
-            p Tener en mente el tiempo con el que se cuenta para la presentación y decidir cuántas diapositivas se van a utilizar.
+      .row.mb-5.justify-content-center
+        .col-lg-6
+          ImagenInfografica.color-secundario
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/t3-i1.svg', alt='Elementos a considerar cuando se diseñen diapositivas')
 
-          .tarjeta.color-acento-botones.p-3(x="50%" y="50%")
-            p Realizar un esquema de tiempo y de temas, especificando cuánto tiempo se toma para cada diapositiva.
+            .tarjeta.color-acento-botones.p-3(x="34%" y="21%")
+              p 1. Tener en mente el tiempo con el que se cuenta para la presentación y decidir cuántas diapositivas se van a utilizar.
 
-          .tarjeta.color-acento-botones.p-3(x="70%" y="70%")
-            p Como ya se definieron previamente la secuencia y las imágenes a utilizar, es importante ir organizando la forma como se quiere que las imágenes sean observadas y el lugar donde irán los textos y las modificaciones a los ángulos de las imágenes y otros detalles.
-          
-          .tarjeta.color-acento-botones.p-3(x="30%" y="50%")
-            p Realizar un guion base con palabras clave y visualizar cada diapositiva para articular el discurso con el recurso.
-          
-          .tarjeta.color-acento-botones.p-3(x="10%" y="70%")
-            p Pasar a la fase de construcción final, ensayo y ajustes.
+            .tarjeta.color-acento-botones.p-3(x="70%" y="15%")
+              p 2. Realizar un esquema de tiempo y de temas, especificando cuánto tiempo se toma para cada diapositiva.
+
+            .tarjeta.color-acento-botones.p-3(x="55%" y="38%")
+              p 3. Como ya se definieron previamente la secuencia y las imágenes a utilizar, es importante ir organizando la forma como se quiere que las imágenes sean observadas y el lugar donde irán los textos y las modificaciones a los ángulos de las imágenes y otros detalles.
+            
+            .tarjeta.color-acento-botones.p-3(x="35%" y="53%")
+              p 4. Realizar un guion base con palabras clave y visualizar cada diapositiva para articular el discurso con el recurso.
+            
+            .tarjeta.color-acento-botones.p-3(x="60%" y="60%")
+              p 5. Pasar a la fase de construcción final, ensayo y ajustes.
 
 
       
