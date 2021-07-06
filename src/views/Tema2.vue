@@ -33,34 +33,41 @@
           img.h100(src='@/assets/curso/t2-i4.svg', alt='Texto que describa la imagen')
         .h4 Pixlr
         p.mb-3  Es un conjunto de herramientas y utilidades de imágenes, basado en la nube, que incluye varios editores de fotografías y un servicio para compartirlas.
-    .row
-      .col-lg-7
-        p.mb-4  En algunas de las herramientas mencionadas o en la de su preferencia, se puede editar una imagen en el celular o en la tablet; pero antes de hacerlo, es importante tener en cuenta lo que veremos a continuación, <b>para poder crear una imagen con contenido útil o, si es el caso, atraer a los clientes:</b>
-        ol.lista-ol--cuadro
-          li 
-            .lista-ol--cuadro__vineta
-              span 1
-            | Definir lo que se quiere comunicar.
-          li 
-            .lista-ol--cuadro__vineta
-              span 2
-            | Examinar la herramienta y sus posibilidades antes de empezar.
-          li 
-            .lista-ol--cuadro__vineta
-              span 3
-            | Elegir las fotografías que se van a utilizar.
-          li 
-            .lista-ol--cuadro__vineta
-              span 4
-            | Diseño de la imagen.
-          li 
-            .lista-ol--cuadro__vineta
-              span 5
-            | Construir la imagen.
-          
-      .col-lg-5
-        figure.mb-4
-          img.h100(src='@/assets/curso/t2-i5.svg', alt='Texto que describa la imagen')    
+    
+
+    .neg-margin.mb-5.py-5.tarjeta--gris
+      .row.justify-content-center.mb-5
+        .col-lg-8
+          p.mb-4  En algunas de las herramientas mencionadas o en la de su preferencia, se puede editar una imagen en el celular o en la tablet; pero antes de hacerlo, es importante tener en cuenta lo que veremos a continuación, <b>para poder crear una imagen con contenido útil o, si es el caso, atraer a los clientes:</b>
+
+      .row.justify-content-center.mb-5
+        .col-lg-5
+          figure
+            img.h100(src='@/assets/curso/t2-i5.svg', alt='Texto que describa la imagen')    
+
+        .col-lg-4
+          ol.lista-ol--cuadro
+            li.slide-top 
+              .lista-ol--cuadro__vineta
+                span 1
+              | Definir lo que se quiere comunicar.
+            li.slide-top 
+              .lista-ol--cuadro__vineta
+                span 2
+              | Examinar la herramienta y sus posibilidades antes de empezar.
+            li.slide-top 
+              .lista-ol--cuadro__vineta
+                span 3
+              | Elegir las fotografías que se van a utilizar.
+            li.slide-top 
+              .lista-ol--cuadro__vineta
+                span 4
+              | Diseño de la imagen.
+            li.slide-top 
+              .lista-ol--cuadro__vineta
+                span 5
+              | Construir la imagen.
+            
     p.mb-3  Aparte de las herramientas que nos permiten construir la pieza gráfica, se requieren recursos adicionales como imágenes, vectores, fuentes, entre otros, <b>los cuales nos permiten cumplir con el objetivo que las piezas quieren transmitir.</b>
     p.mb-5  Algunos recursos valiosos que podemos encontrar en la web, <b>los cuales son libres de derechos y podemos usar sin inconvenientes,</b> son:
 
