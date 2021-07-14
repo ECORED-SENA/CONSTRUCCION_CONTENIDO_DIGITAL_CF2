@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/CONSTRUCCION_CONTENIDO_DIGITAL_CF2/](https://ecored-sena.github.io/CONSTRUCCION_CONTENIDO_DIGITAL_CF2/)
 
 #
 
