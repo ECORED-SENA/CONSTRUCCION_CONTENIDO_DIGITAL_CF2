@@ -6,51 +6,60 @@
       .titulo-principal__numero
         span  3
       h1 Planeación, diseño y herramientas para elaborar presentaciones
-    .row.mb-5.justify-content-center
-      .col-lg-12
-        p.mb-4.text-bold  ¿Sabías que la presentación es una herramienta importante cuando se va a socializar?
-        p.mb-4  Uno de los aspectos más importantes es que contenga gráficos, porque ellos representan metáforas y son fundamentales para el cerebro humano.
-        p.mb-4  El texto debe ser limitado de manera esencial y contrastar con el color del fondo. La letra negra en un fondo oscuro no se va a poder ver; lo mismo pasa con un fondo pastel con letra blanca.
 
-    
-    .light-blue.py-5.mb-5
-      .row.mb-5.justify-content-center
-        .col-lg-12
-          p.mb-4.text-center  Teniendo en cuenta todo lo anterior, se deben considerar <b>los siguientes puntos en el diseño de las diapositivas para las presentaciones:</b>
+    p.mb-5(data-aos="slide-up")
+      b ¿Sabías que la presentación es una herramienta importante cuando se va a socializar?
+      br
+      br
+      | Uno de los aspectos más importantes es que contenga gráficos, porque ellos representan metáforas y son fundamentales para el cerebro humano.
+      br
+      br
+      | El texto debe ser limitado de manera esencial y contrastar con el color del fondo. La letra negra en un fondo oscuro no se va a poder ver; lo mismo pasa con un fondo pastel con letra blanca.
+      br
+      br
+      | Teniendo en cuenta todo lo anterior, se deben considerar 
+      b los siguientes puntos en el diseño de las diapositivas para las presentaciones:
 
-      .row.mb-5.justify-content-center
-        .col-lg-6
-          ImagenInfografica.color-secundario
-            template(v-slot:imagen)
-              figure
-                img(src='@/assets/curso/t3-i1.svg', alt='Elementos a considerar cuando se diseñen diapositivas')
+    ImagenInfografica.color-secundario.mb-5(data-aos="slide-up")
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/Group55087.svg', alt='Elementos a considerar cuando se diseñen diapositivas')
 
-            .tarjeta.color-acento-botones.p-3(x="34%" y="21%")
-              p 1. Tener en mente el tiempo con el que se cuenta para la presentación y decidir cuántas diapositivas se van a utilizar.
+      .tarjeta.color-acento-botones.p-3(x="10%" y="11%")
+        p.mb-0
+          span.h4 1. 
+          |Tener en mente el tiempo con el que se cuenta para la presentación y decidir cuántas diapositivas se van a utilizar.
 
-            .tarjeta.color-acento-botones.p-3(x="70%" y="15%")
-              p 2. Realizar un esquema de tiempo y de temas, especificando cuánto tiempo se toma para cada diapositiva.
+      .tarjeta.color-acento-botones.p-3(x="27%" y="30%")
+        p.mb-0
+          span.h4 2. 
+          | Realizar un esquema de tiempo y de temas, especificando cuánto tiempo se toma para cada diapositiva.
 
-            .tarjeta.color-acento-botones.p-3(x="55%" y="38%")
-              p 3. Como ya se definieron previamente la secuencia y las imágenes a utilizar, es importante ir organizando la forma como se quiere que las imágenes sean observadas y el lugar donde irán los textos y las modificaciones a los ángulos de las imágenes y otros detalles.
-            
-            .tarjeta.color-acento-botones.p-3(x="35%" y="53%")
-              p 4. Realizar un guion base con palabras clave y visualizar cada diapositiva para articular el discurso con el recurso.
-            
-            .tarjeta.color-acento-botones.p-3(x="60%" y="60%")
-              p 5. Pasar a la fase de construcción final, ensayo y ajustes.
-
-
+      .tarjeta.color-acento-botones.p-3(x="45%" y="38%")
+        p.mb-0.text-small 
+          span.h4 3. 
+          | Como ya se definieron previamente la secuencia y las imágenes a utilizar, es importante ir organizando la forma como se quiere que las imágenes sean observadas y el lugar donde irán los textos y las modificaciones a los ángulos de las imágenes y otros detalles.
       
+      .tarjeta.color-acento-botones.p-3(x="35%" y="53%")
+        p.mb-0
+          span.h4 4. 
+          | Realizar un guion base con palabras clave y visualizar cada diapositiva para articular el discurso con el recurso.
+      
+      .tarjeta.color-acento-botones.p-3(x="60%" y="60%")
+        p.mb-0 
+          span.h4 5. 
+          | Pasar a la fase de construcción final, ensayo y ajustes.
 
-    p.mb-5  Es importante aclarar que se pueden buscar plantillas gratuitas, identificando en cuáles se debe dar reconocimiento al diseñador de la plantilla y usarlas de manera efectiva en los ajustes.
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="slide-up")  Es importante aclarar que se pueden buscar plantillas gratuitas, identificando en cuáles se debe dar reconocimiento al diseñador de la plantilla y usarlas de manera efectiva en los ajustes.
+
+    .row.justify-content-center.mb-5(data-aos="slide-up")
       .col-lg-10
         .cajon.color-secundario.p-4
-          p <b>Recuerda:</b> para crear una presentación efectiva, se requiere ser cuidadoso al momento <b>de elegir los elementos visuales, el tipo de fuente y el punto focal.</b> Si se tienen en cuenta estos 3 elementos en lo que se quiere comunicar, se estará más cerca de lograr lo que se desea.
-    p.mb-5  El siguiente listado contiene algunas de las plataformas que permiten <b>crear presentaciones interactivas online, de manera gratuita o a través de un registro:</b>
+          p.mb-0 <b>Recuerda:</b> para crear una presentación efectiva, se requiere ser cuidadoso al momento <b>de elegir los elementos visuales, el tipo de fuente y el punto focal.</b> Si se tienen en cuenta estos 3 elementos en lo que se quiere comunicar, se estará más cerca de lograr lo que se desea.
+   
+    p.mb-5(data-aos="slide-up") El siguiente listado contiene algunas de las plataformas que permiten <b>crear presentaciones interactivas online, de manera gratuita o a través de un registro:</b>
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="slide-up")
       .col-lg-4
         figure.mb-4
           img(src='@/assets/curso/t3-i2.svg', alt='Texto que describa la imagen')
@@ -94,8 +103,9 @@
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p <b>Enlace web.</b> www.slidebean.com
-    p.mb-5  Al igual que con la planeación de una imagen, es importante considerar los siguientes puntos:
-    .row 
+    p.mb-5(data-aos="slide-up") Al igual que con la planeación de una imagen, es importante considerar los siguientes puntos:
+    
+    .row(data-aos="slide-up")
       .col-lg-3
         figure.mb-4
           img(src='@/assets/curso/t3-i7.svg', alt='Texto que describa la imagen')
@@ -122,7 +132,6 @@
           li 
             i.fa.fa-check
             | Construir la presentación, revisarla y ensayarla.    
-    
 
 </template>
 

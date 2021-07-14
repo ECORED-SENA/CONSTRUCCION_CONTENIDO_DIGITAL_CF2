@@ -52,3 +52,39 @@ i.fa-check
   100%
     -webkit-transform: translateY(-50px)
     transform: translateY(-50px)
+
+.num-blur
+  display: flex
+  align-items: center
+  cursor: pointer
+  &__num
+    background-color: $color-secundario
+    width: 40px
+    height: 40px
+    flex-shrink: 0
+    border-radius: 50%
+    position: relative
+    div
+      position: absolute
+      top: 50%
+      left: 50%
+      transform: translate(-50%,-50%)
+  &__text
+    margin-left: 10px
+    line-height: 1.2em
+    filter: blur(5px)
+    transition: filter 0.3s ease-in-out
+
+  &:hover
+    .num-blur__text
+      filter: blur(0px)
+
+.parrafo-tema-5
+  img
+    width: 49%
+    margin: 2% 0 2% 2%
+    float: right
+
+.curso-main-container
+  &> .container
+    overflow: initial
