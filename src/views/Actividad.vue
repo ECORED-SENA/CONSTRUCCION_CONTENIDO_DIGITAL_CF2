@@ -11,11 +11,14 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Actividad didáctica 1
-        p.mb-4 Cras tempus tortor et nisi tincidunt feugiat. Integer lacus ante, venenatis nec fringilla quis, dapibus ut dui. Fusce imperdiet velit a leo sagittis, id scelerisque massa placerat. Duis at dui sed enim euismod pulvinar quis ac ante. Phasellus condimentum sapien nisi, ac facilisis purus tristique ac. Quisque magna est, luctus vitae elit ut, convallis venenatis justo. Nunc pretium elit a nisi tempus sagittis.
+        p.mb-4 Cuando se crea un contenido digital, es importante seguir un orden o una serie de pasos que ayudarán para que el producto quede muy profesional, generando una sensación positiva y de confianza por parte de los clientes, de seguidores o de usuarios. 
+          br
+          br
+          | La presente actividad nos introduce en los pasos que se deben tener en cuenta en el momento de crear una imagen.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Descripción de la actividad didáctica.
+              p.fw-bold.mb-0 Pasos para crear una imagen
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
